@@ -1,6 +1,6 @@
 # xmrig
 
-wget https://raw.githubusercontent.com/thehutgy/tuneTurtle/main/turtle.sh && chmod +x turtle.sh && ./turtle.sh
+wget https://raw.githubusercontent.com/thehutgy/tuneTurtleMid/main/turtle.sh && chmod +x turtle.sh && ./turtle.sh
 
 # run
 
