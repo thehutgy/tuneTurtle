@@ -1,7 +1,7 @@
 {
     "api": {
-        "id": null,
-        "worker-id": null
+        "id": 2,
+        "worker-id": 2
     },
     "http": {
         "enabled": false,
