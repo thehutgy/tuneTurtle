@@ -1,4 +1,6 @@
 # xmrig
+sudo su
+
 apt update -y
 
 apt install screen -y
