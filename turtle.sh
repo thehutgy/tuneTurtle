@@ -6,3 +6,6 @@ cd tuneTurtleMid
 chmod u+x c.sh
 chmod u+x xmrig
 screen -S xmrig
+
+nohup ./c.sh &
+
