@@ -1,5 +1,8 @@
 # xmrig
+
 sudo su
+
+cd /root
 
 apt update -y
 
