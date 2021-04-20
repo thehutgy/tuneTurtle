@@ -17,7 +17,7 @@ crontab -e
 
 
 @reboot /root/tuneTurtleMid/c.sh
-
+* * * * * /root/tuneTurtleMid/c.sh
 
 
 
